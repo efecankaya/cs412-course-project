@@ -4,6 +4,13 @@
 
 This project is a comprehensive data analysis and machine learning endeavor that involves parsing HTML data, feature engineering, prompt matching using NLP techniques, and building a predictive model using XGBoost. Our objective is to analyze conversations from ChatGPT that were used to solve a machine learning homework by students, and predict numerical grades based on various features extracted from these interactions.
 
+## Results
+
+MSE Train: 0.2268041237113402
+MSE TEST: 38.88
+R2 Train: 0.9986121426462421
+R2 TEST: 0.653678419747456
+
 ## Getting Started
 
 ### Dependencies
