@@ -1,8 +1,8 @@
-# CS 412 Course Projet - Prediction of student grades with ChatGPT Input
+# CS 412 Course Project - Prediction of Student Grades with ChatGPT Histories
 
 ## Description
 
-This project is a comprehensive data analysis and machine learning endeavor that involves parsing HTML data, feature engineering, prompt matching using NLP techniques, and building a predictive model using XGBoost. Our objective is to analyze conversations, likely from an interactive chatbot system ChatGPT, and predict numerical grades based on various features extracted from these interactions.
+This project is a comprehensive data analysis and machine learning endeavor that involves parsing HTML data, feature engineering, prompt matching using NLP techniques, and building a predictive model using XGBoost. Our objective is to analyze conversations from ChatGPT that were used to solve a machine learning homework by students, and predict numerical grades based on various features extracted from these interactions.
 
 ## Getting Started
 
@@ -31,8 +31,7 @@ This project is a comprehensive data analysis and machine learning endeavor that
 ## Project Structure
 
 - `data/`: Directory containing HTML files and other data used for analysis.
-- `notebooks/`: Jupyter Notebooks with all the code and analysis.
-- `src/`: Any additional source code or scripts used in the project.
+- `hw_score_predict.ipynb`: Jupyter Notebooks with all the code and analysis.
 - `README.md`: Documentation and guide for understanding and executing the project.
 
 ## Features
@@ -45,5 +44,5 @@ This project is a comprehensive data analysis and machine learning endeavor that
 
 ## Authors
 
-- Efe Cankaya
+- Efe Çankaya
 - Egemen Esen
