@@ -1,7 +1,3 @@
-Absolutely! Below is a README template for your group project. You can modify it as needed to better fit the specifics of your project.
-
----
-
 # CS 412 Course Projet - Prediction of student grades with ChatGPT Input
 
 ## Description
