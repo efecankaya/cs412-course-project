@@ -31,7 +31,8 @@ This project is a comprehensive data analysis and machine learning endeavor that
 ## Project Structure
 
 - `data/`: Directory containing HTML files and other data used for analysis.
-- `hw_score_predict.ipynb`: Jupyter Notebooks with all the code and analysis.
+- `hw_score_predict.ipynb`: Jupyter Notebook with all the code and analysis.
+- `Assingment.ipynb`: Jupyter Notebook of the machine learning homework that the students have solved with ChatGPT.
 - `README.md`: Documentation and guide for understanding and executing the project.
 
 ## Features
